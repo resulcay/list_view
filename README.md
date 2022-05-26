@@ -1,6 +1,12 @@
 # list_view
 
-A new Flutter project.
+---ScreenShots---
+
+<img src="assets/1.png" width="400"> | <img src="assets/2.png" width="400"> | 
+
+Inspired on: https://www.youtube.com/channel/UCU0XSqz_hWLJbmlr7kCmvAg
+
+The Playlist: https://www.youtube.com/playlist?list=PLJ5EAGz05Q3FJG96SH8GoWcSUg8IHwtnt
 
 ## Getting Started
 
